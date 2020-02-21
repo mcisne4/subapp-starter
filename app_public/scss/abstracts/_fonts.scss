@@ -1,0 +1,16 @@
+// --- FONTS ---
+@mixin fontTitle {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 700;
+}
+
+@mixin fontSubTitle {
+  font-family: 'IBM Plex Sans', sans-serif;
+  // font-family: 'IBM Plex Mono', monospace;
+  font-weight: 600;
+}
+
+@mixin fontNormal {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 400;
+}

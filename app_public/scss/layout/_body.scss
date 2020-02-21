@@ -1,0 +1,11 @@
+html, body {
+  min-height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-attachment: $body_background_color;
+  color: $body_text_color;
+  @include fontNormal;
+}

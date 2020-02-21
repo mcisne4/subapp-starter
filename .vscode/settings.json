@@ -1,0 +1,32 @@
+{
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/app_public/css"
+    }
+  ],
+
+  "liveSassCompile.settings.excludeList": [
+    "**/node_modules/**",
+    ".vscode/**",
+    "/design_files/**"
+  ],
+
+  "liveSassCompile.settings.autoprefix": [
+    "> 1%",
+    "last 2 versions"
+  ],
+
+  "liveSassCompile.settings.showOutputWindow": true,
+
+  "liveServer.settings.port": 3050,
+
+  "liveServer.settings.root": "/",
+
+  "liveServer.settings.CustomBrowser" : "chrome",
+
+  "liveServer.settings.host": "localhost",
+
+  "liveServer.settings.useWebExt": true
+}

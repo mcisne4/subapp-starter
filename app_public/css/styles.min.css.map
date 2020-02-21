@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,AAAC,CACA,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,UAAU,CAAE,UAAU,CACvB,AAED,AAAA,EAAE,CACF,EAAE,CACF,EAAE,CACF,EAAE,CACF,EAAE,CACF,EAAE,CACF,CAAC,AAAC,CACA,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACX,AIfD,AAAA,IAAI,CAAE,IAAI,AAAC,CACT,UAAU,CAAE,IAAI,CACjB,AAED,AAAA,IAAI,AAAC,CACH,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,MAAM,CACtB,qBAAqB,CFJC,GAAI,CEK1B,KAAK,CFJW,IAAI,CDSpB,WAAW,CAAE,0BAA0B,CACvC,WAAW,CAAE,GAAG,CGJjB,AGVD,AAAA,IAAI,AAAC,CACH,gBAAgB,CAAE,IAAI,CACvB",
+    "sources": [
+        "../scss/styles.scss",
+        "../scss/abstracts/_reset.scss",
+        "../scss/abstracts/_fonts.scss",
+        "../scss/abstracts/_variables.scss",
+        "../scss/components/_buttons.scss",
+        "../scss/layout/_body.scss",
+        "../scss/layout/_navbar.scss",
+        "../scss/layout/_footer.scss",
+        "../scss/pages/_a_page.scss"
+    ],
+    "names": [],
+    "file": "styles.min.css"
+}
